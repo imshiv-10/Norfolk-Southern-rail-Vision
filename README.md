@@ -2,7 +2,9 @@
 
 ### Overview
 
-Welcome to the RailVision project! This initiative, led by Siva Prasad Nidamanuri and launched on December 18, 2023, is at the forefront of applying advanced deep learning techniques to the world of freight train analysis. Our goal is to revolutionize how we identify couplers and detect defects in them, leveraging the power of AI to ensure safer and more efficient railway operations.
+Welcome to the RailVision project! This initiative is at the forefront of applying advanced deep learning techniques to the world of freight train analysis. Our goal is to revolutionize how we identify couplers and detect defects in them, leveraging the power of AI to ensure safer and more efficient railway operations.
+
+<img width="500" alt="image" src="https://github.com/imshiv-10/Norfolk-Southern-rail-Vision/assets/112423329/a9ac62da-5a26-4237-a7bb-54599e65f4f2">
 
 ### What is RailVision?
 
